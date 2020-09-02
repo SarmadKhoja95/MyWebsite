@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'mypic.JPG',
   paragraphOne: 'Highly dedicated and creative full stack web and mobile developer with one plus year of strong experience in latest technologies like React.js, React Native. Interested in continuation of learning & cooperation with excellent people. ',
   paragraphTwo: 'I’ve always sought out opportunities and challenges that are meaningful to me. Although my professional path has taken many twists and turns. I have never stopped engaging my passion to help others and solve problems. As a web & mobile developer, I enjoy using my obsessive attention to detail, my unequivocal love for making things, and my mission-driven work ethic to literally change the world.',
   paragraphThree: 'That’s why I’m excited to make a big impact at a high growth company.',
